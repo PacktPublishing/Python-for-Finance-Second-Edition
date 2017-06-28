@@ -44,7 +44,7 @@ After Python is installed via Anaconda, navigate to Start | All Programs | Anaco
 For most users, knowing how to install Python via Anaconda is more than enough. Just for completeness, here the second way to install Python is presented. There are two steps involved. First, go to http://www.python.org/download.Depending on your computer, choose the appropriate package, for example, Python 3.5.2 version. For this book the version of Python is not important.To launch Python, we could click IDLE (Python 3.5. 32 bit).
 
 ### Note:
-The code files for all the chapters are given. For chapter 05, packages are given so inorder to use the code, refer the chapter.
+The code files for all the chapters are given. For chapter05, packages are given so inorder to use the code, refer the chapter.
 
 ## Related Products:
 * [Python for Finance](https://www.packtpub.com/application-development/python-finance?utm_source=github&utm_medium=repository&utm_content=9781783284375)

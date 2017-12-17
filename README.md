@@ -52,6 +52,3 @@ The code files for all the chapters are given. For chapter05, packages are given
 * [Mastering Python for Finance](https://www.packtpub.com/big-data-and-business-intelligence/mastering-python-finance?utm_source=github&utm_medium=repository&utm_content=9781784394516)
 
 * [Python: Data Analytics and Visualization](https://www.packtpub.com/big-data-and-business-intelligence/python-data-analytics-and-visualization?utm_source=github&utm_medium=repository&utm_content=9781788290098)
-
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
